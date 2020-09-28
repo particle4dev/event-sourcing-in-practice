@@ -1,5 +1,5 @@
 Cactus==2.3.1
-Django==1.5.5
+Django==1.11.29
 Markdown==2.3.1
 Pygments==1.6
 boto==2.20.0
